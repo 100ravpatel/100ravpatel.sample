@@ -97,7 +97,7 @@ a{
 }
 .text h1{
     color: rgb(56, 51, 51);
-    font-size: 4rem;
+    font-size:50px;
     cursor: context-menu;
     border-radius: 0;
 }
